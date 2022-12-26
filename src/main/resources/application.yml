@@ -1,0 +1,9 @@
+#s3:
+#  endpoint:
+#  accessKey:
+#  secretKey:
+#spring:
+#  redis:
+#    port:
+#    host:
+#    password:
